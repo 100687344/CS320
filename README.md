@@ -1,2 +1,2 @@
-# CS243
-CS243 at SNHU
+# CS320
+CS320 at SNHU
